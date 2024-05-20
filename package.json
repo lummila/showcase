@@ -1,0 +1,20 @@
+{
+  "urls": [
+    ["heart_27_26.py", "http://localhost:8000/heart_27_26.py"],
+    ["history.py", "http://localhost:8000/history.py"],
+    ["input_control.py", "http://localhost:8000/input_control.py"],
+    ["main.py", "http://localhost:8000/main.py"],
+    ["operations.py", "http://localhost:8000/operations.py"],
+    ["smiley.py", "http://localhost:8000/smiley.py"],
+    ["crying26_26.py", "http://localhost:8000/crying26_26.py"],
+    ["lib/filefifo.py", "http://localhost:8000/pico-lib/filefifo.py"],	
+    ["lib/fifo.py", "http://localhost:8000/pico-lib/fifo.py"],
+    ["lib/piotimer.py", "http://localhost:8000/pico-lib/piotimer.py"],
+    ["lib/led.py", "http://localhost:8000/pico-lib/led.py"],
+    ["lib/ssd1306.mpy", "http://localhost:8000/pico-lib/ssd1306.mpy"],
+    ["lib/umqtt/simple.mpy", "http://localhost:8000/pico-lib/umqtt/simple.mpy"]
+  ],
+  "deps": [
+  ],
+  "version": "0.1"
+}
