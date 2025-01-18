@@ -1,5 +1,5 @@
 # Aleksi Lummila's showcase!
-Showroom for projects Aleksi Lummila participated in.
+Showroom for projects I participated in.
 
 ## Raspberry Pi Health Device
 An embedded IoT device designed to act as a heart rate monitor, local heart rate variability (HRV) analyzer and a device to wirelessly connect to Kubios Cloud for an in-depth HRV analysis.
